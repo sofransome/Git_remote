@@ -1,0 +1,24 @@
+---------------
+
+* Repository -- like a folder/container that stores files/folders related to a project. It keeps track of the changes made over time.
+	> Local Repository -- version of the repo that is stored on your own computer
+	> Remote Repository -- version of the repo that is stored on a server or cloud-based platform [GitHub]
+
+* git init
+		- initialize a folder
+
+* 	git config --global user.name "<username>"
+	git config --global user.email "<email address>"
+		- sets the user's username and email address
+
+*	git config --global user.name 
+	git config --global user.email 
+		- to check if username and email address were successfully connected
+
+*	git status 
+		- displays the current status of your file/folder
+*	git add . 
+		- adds all modified files in your current directory to the staging area	
+
+*	git add "filename" 
+		- adds a specific file to the staging area
