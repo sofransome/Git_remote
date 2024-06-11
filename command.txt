@@ -22,3 +22,9 @@
 
 *	git add "filename" 
 		- adds a specific file to the staging area
+*       git commit -m
+		- saves the changes that youve made to the files in the staging area to the repository. 
+		 The "message" describes what changes were made in this commit
+
+*       git log
+	        - display all the commits that were made
